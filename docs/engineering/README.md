@@ -15,6 +15,9 @@ This section focuses on engineering thinking before implementation, including pr
 - [Understanding Requirements](understanding-requirements.md)
   Learn how to distinguish real requirements from ideas, design decisions, and implementation details before analyzing or designing software.
 
+- [Requirements Analysis](requirements-analysis.md)
+  Learn how experienced engineers evaluate, challenge, and validate a collection of requirements to build a defensible engineering model before entering Solution Design.
+
 ## Future Topics
 
 This section will continue to grow as new engineering insights emerge from real-world projects and discussions.
