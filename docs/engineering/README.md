@@ -2,7 +2,7 @@
 
 Practical software engineering knowledge extracted from real projects.
 
-This section focuses on engineering thinking before implementation, including problem discovery, decision making, responsibility, maintainability, communication, and development practices.
+This section focuses on engineering thinking before implementation, including problem discovery, requirements, decision making, responsibility, maintainability, communication, and development practices.
 
 ## Published Documents
 
@@ -11,6 +11,9 @@ This section focuses on engineering thinking before implementation, including pr
 
 - [Problem Discovery](problem-discovery.md)
   How experienced engineers discover the real business problem before designing a software solution.
+
+- [Understanding Requirements](understanding-requirements.md)
+  Learn how to distinguish real requirements from ideas, design decisions, and implementation details before analyzing or designing software.
 
 ## Future Topics
 
