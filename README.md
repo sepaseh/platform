@@ -1,6 +1,6 @@
 # Platform
 
-> *We don't build perfect software. We build software that learns from imperfect decisions.*
+> _We don't build perfect software. We build software that learns from imperfect decisions._
 
 ---
 
@@ -43,6 +43,22 @@ Because today's mistake can become tomorrow's engineering principle.
 
 ---
 
+## Knowledge Base
+
+Platform is organized into focused engineering domains.
+
+Each section contains its own documentation index and published articles.
+
+- **Engineering** → [docs/engineering](docs/engineering/)
+- **Architecture** → docs/architecture/
+- **Analysis** → docs/analysis/
+- **Design** → docs/design/
+- **Patterns** → docs/patterns/
+
+The repository will continue to grow as new engineering knowledge is extracted from real projects and experience.
+
+---
+
 ## What you'll find here
 
 This repository is intended to grow into an engineering workspace containing:
@@ -62,10 +78,10 @@ Understanding **why** something exists is just as important as knowing **how** i
 
 ---
 
-> *There are no perfect decisions. Only well-documented trade-offs.*
+> _There are no perfect decisions. Only well-documented trade-offs._
 
 ---
 
 **Started in 2026.**
 
-*Still learning.*
+_Still learning._
